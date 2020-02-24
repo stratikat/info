@@ -1,4 +1,4 @@
 Below is a list of available animations:
 
-Unitard
-Pogchamp-shout
+1. Unitard
+2. Pogchamp-shout
